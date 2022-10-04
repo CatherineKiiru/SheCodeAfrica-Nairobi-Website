@@ -12,7 +12,7 @@ module.exports = {
       extend: {
       colors: {
         primary: '#B70569',
-        darkAccent: '#210D15'
+        darkAccent: '#210D15',
       },
       fontFamily: {
         sans: ['Poppins', ...defaultTheme.fontFamily.sans]
