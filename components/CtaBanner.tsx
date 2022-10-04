@@ -40,4 +40,4 @@ function CtaBanner ({className} : PropsWithClassName) {
     )
 } 
 
-export {CtaButton as default}
+export {CtaBanner as default}
